@@ -2,7 +2,7 @@
 
 This repository contains multiple interactive applications built with **Streamlit** to demonstrate machine learning models applied in various business and analytics scenarios.
 
-Each app allows users to interact with trained models through a simple web interface and view predictions and visualizations based on real-world data.
+Each app allows users to interact with trained models through a simple web interface and view predictions and visualizations based on real-world data
 
 ---
 
